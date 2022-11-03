@@ -20,7 +20,7 @@ There are lots of easter eggs to find!
 
 ## Request Commands
 * ```$bank <amount>``` - Request an amount of money from the bankers!
-* ```/bank <amount: amount of money needed, must be a number!>``` - Slash command to request money from the bankers!
+* ```/bank <amount: amount of money needed>``` - Slash command to request money from the bankers!
 
 ## Fun Commands
 * ```$rigged``` - Calls out Fatties for rigging things!
