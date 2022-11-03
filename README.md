@@ -1,4 +1,4 @@
-# Galactus Documentation
+# Bender Documentation
 This is intended as a publicly available documentation for WMD's Bender Discord Bot. 
 The bot has been developed by feather4102 in Python using the Nextcord module which is a fork of the original discord.py module.  
 
