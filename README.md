@@ -39,11 +39,23 @@ There are lots of easter eggs to find!
 * ```$rigged``` - Calls out Fatties for rigging things!
 * ```$conversions``` - Get some handy conversions!
 * ```$tanuki``` - See the almighty tanuki!
+* ```$hnb``` or ```$bnh``` - Blackjack and hookers!
+* ```$coolstorybro``` or ```$csb``` = Cool story bro!
+* ```$quit``` - idk how to describe this lol 
+* ```$scamming``` or ```$scam``` or ```$scammer``` - It's not blackmail!
 
 ## Fun Slash Commands
 * ```/pumped mom <target: who is getting their mother pumped> [pumper: who is doing the pumping, if left blank defaults to the command user]``` - Someone is gonna pump someone else's mom. 
-* * ```/pumped mom <target: who is getting their father pumped> [pumper: who is doing the pumping, if left blank defaults to the command user]``` - Someone is gonna pump someone else's dad. 
+* * ```/pumped dad <target: who is getting their father pumped> [pumper: who is doing the pumping, if left blank defaults to the command user]``` - Someone is gonna pump someone else's dad. 
 * ```/askbender <question: Needs to be a Yes or No question>``` - Ask Bender a question! (Kinda like a magic 8 ball)
+* ```/attack punch <target: who to attack> [attacker: who is attacking, if left blank defaults to the command user] - Punch someone!
+* ```/attack rko <target: who to attack> [attacker: who is attacking, if left blank defaults to the command user] - RKO!
+* ```/attack kick <target: who to attack> [attacker: who is attacking, if left blank defaults to the command user] - Kick someone!
+* ```/attack scm <target: who to attack> [attacker: who is attacking, if left blank defaults to the command user] - Give someone sweet chin music!
+* ```/attack truckerbomb <target: who to attack> [attacker: who is attacking, if left blank defaults to the command user] - Throw a truckerbomb at someone!
+* ```/attack superkick <target: who to attack> [attacker: who is attacking, if left blank defaults to the command user] - Superkick someone!
+* ```/drugs <target: who to tell that drugs are bad>``` - Tell someone drugs are bad!
+* ```/offended <offender: who offended you>``` - Make sure someone knows they offended you!
 
 # A Quick and Dirty Guide to Embeds
 ## The Key Parts of an Embed - See image at the bottom for reference where each thing (except color) is labeled with (). 
