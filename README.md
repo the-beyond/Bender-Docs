@@ -21,6 +21,10 @@ There are lots of easter eggs to find!
 * ```/feedback <feedback_type: choose the tyoe from the list> <message: the message you want to send me> [anonymous: choose to be anonymous or not]``` - Send me feedback about the bot!
 * ```/ticket <issue: write the issue you are having> <message: do you want me to message you to get more info?>``` - Submit a ticket to me if something goes wrong!
 
+## Slash Commands (Register)
+* ```/register current_member <torn_id: Torn ID>``` - Register yourself with the bot!
+* ```/register new_member <torn_id: Torn ID>``` - Join the server as a new member!
+
 ## Slash Commands (Calculate)
 * ```/calculate se_manual <stat: The stat you want to train> <se_count: number of SE to use>``` - See how much you will gain using SEs!
 
