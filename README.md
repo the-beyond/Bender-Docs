@@ -20,6 +20,7 @@ There are lots of easter eggs to find!
 * ```/stockfund``` - Get the link to the stock fund info!
 * ```/feedback <feedback_type: choose the tyoe from the list> <message: the message you want to send me> [anonymous: choose to be anonymous or not]``` - Send me feedback about the bot!
 * ```/ticket <issue: write the issue you are having> <message: do you want me to message you to get more info?>``` - Submit a ticket to me if something goes wrong!
+* * ```/ask_question <question: write your question> <anonymous: do you want it to be anonymous>``` - Ask a question with optional anonymity! (Leadership will see your name to prevent trolling)
 
 ## Slash Commands (Register)
 * ```/register current_member <torn_id: Torn ID>``` - Register yourself with the bot!
@@ -55,12 +56,12 @@ There are lots of easter eggs to find!
 * ```/pumped mom <target: who is getting their mother pumped> [pumper: who is doing the pumping, if left blank defaults to the command user]``` - Someone is gonna pump someone else's mom. 
 * * ```/pumped dad <target: who is getting their father pumped> [pumper: who is doing the pumping, if left blank defaults to the command user]``` - Someone is gonna pump someone else's dad. 
 * ```/askbender <question: Needs to be a Yes or No question>``` - Ask Bender a question! (Kinda like a magic 8 ball)
-* ```/attack punch <target: who to attack> [attacker: who is attacking, if left blank defaults to the command user] - Punch someone!
-* ```/attack rko <target: who to attack> [attacker: who is attacking, if left blank defaults to the command user] - RKO!
-* ```/attack kick <target: who to attack> [attacker: who is attacking, if left blank defaults to the command user] - Kick someone!
-* ```/attack scm <target: who to attack> [attacker: who is attacking, if left blank defaults to the command user] - Give someone sweet chin music!
-* ```/attack truckerbomb <target: who to attack> [attacker: who is attacking, if left blank defaults to the command user] - Throw a truckerbomb at someone!
-* ```/attack superkick <target: who to attack> [attacker: who is attacking, if left blank defaults to the command user] - Superkick someone!
+* ```/attack punch <target: who to attack> [attacker: who is attacking, if left blank defaults to the command user]``` - Punch someone!
+* ```/attack rko <target: who to attack> [attacker: who is attacking, if left blank defaults to the command user]``` - RKO!
+* ```/attack kick <target: who to attack> [attacker: who is attacking, if left blank defaults to the command user]``` - Kick someone!
+* ```/attack scm <target: who to attack> [attacker: who is attacking, if left blank defaults to the command user]``` - Give someone sweet chin music!
+* ```/attack truckerbomb <target: who to attack> [attacker: who is attacking, if left blank defaults to the command user]``` - Throw a truckerbomb at someone!
+* ```/attack superkick <target: who to attack> [attacker: who is attacking, if left blank defaults to the command user]``` - Superkick someone!
 * ```/drugs <target: who to tell that drugs are bad>``` - Tell someone drugs are bad!
 * ```/offended <offender: who offended you>``` - Make sure someone knows they offended you!
 
